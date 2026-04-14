@@ -1,0 +1,10 @@
+S -> B uno
+S -> dos C
+S -> eps
+A -> S tres B C
+A -> cuatro
+A -> eps
+B -> A cinco C seis
+B -> eps
+C -> siete B
+C -> eps

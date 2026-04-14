@@ -1,0 +1,12 @@
+# Ejercicio 3
+
+# Terminales: uno, dos, tres, cuatro
+
+S -> A B C
+S -> S uno
+A -> dos B C
+A -> eps
+B -> C tres
+B -> eps
+C -> cuatro B
+C -> eps

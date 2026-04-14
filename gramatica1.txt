@@ -1,0 +1,12 @@
+# Ejercicio 1
+S -> A B C
+S -> D E
+A -> dos B tres
+A -> eps
+B -> B cuatro C cinco
+B -> eps
+C -> seis A B
+C -> eps
+D -> uno A E
+D -> B
+E -> tres
